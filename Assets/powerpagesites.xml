@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="dc7536dd-8087-4219-b6fd-6fe059037c80">
+    <content>{"defaultlanguage":"45a1e2a6-8b80-4729-b99e-67f4e88f7a77","footerwebtemplateid":"ad4ac58b-3ae8-4ffe-bf4f-9511bffe79dc","headerwebtemplateid":"3e79e68f-1ece-414c-ad32-670922bac2f6","website_language":1033,"defaultbotconsumerid":"78424ebb-b36e-ef11-a670-6045bd03dc2e"}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>TrilloraPortal - trillora-preflight-workplace-nu</name>
+    <primarydomainname>trillora-preflight-workplace-nu.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>
